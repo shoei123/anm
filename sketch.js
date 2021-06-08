@@ -12,7 +12,7 @@ This example uses p5 preload function to create the classifier
 // Classifier Variable
 let classifier;
 // Model URL
-let imageModelURL = 'https://hkr005078.github.io/imageai/';
+let imageModelURL = 'https://shoei123.github.io/anm/';
 
 // Video
 let video;
